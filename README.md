@@ -8,6 +8,7 @@ also have a travel vlog channel on Youtube. I'll be posting some of my noodling 
 Skills:
 - HTML
 - CSS
+- Squarespace
 - Adobe InDesign
 <br/>
 <br/>
