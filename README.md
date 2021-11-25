@@ -9,7 +9,10 @@ Skills:
 - HTML
 - CSS
 - Squarespace
+- Adobe Dreamweaver
 - Adobe InDesign
+- Responsive Web Design
+- Bilingual Web Design(Spanish Language)
 <br/>
 <br/>
 <br/>
