@@ -16,4 +16,4 @@ Skills:
 <br/>
 <br/>
 <br/>
-For my work in print and photography, visit here: https://www.behance.net/jeanpaulperez1
+For my work in print and photography, visit here: https://www.jeanpaul.info/
