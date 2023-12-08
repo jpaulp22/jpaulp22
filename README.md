@@ -7,7 +7,14 @@ Jean Paul Perez-Saldarriaga is an artist based in New York City that specializes
 Skills:
 - HTML
 - CSS
-- Squarespace
+- Javascript
+- Jquery
+- Node.js
+- MongoDB
+- Adobe Photoshop
+- Adobe InDesign
+- Webflow
+- Wordpress
 - Visual Studio
 - Adobe Creative Cloud
 - Responsive Web Design
